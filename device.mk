@@ -141,7 +141,6 @@ PRODUCT_PACKAGES += \
     audio.bluetooth.default \
     com.qualcomm.qti.bluetooth_audio@1.0 \
     com.qualcomm.qti.bluetooth_audio@1.0.vendor \
-    BluetoothQti \
     libbtconfigstore \
     libbthost_if \
     vendor.qti.hardware.bluetooth_audio@2.0 \
